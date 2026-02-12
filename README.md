@@ -1,0 +1,82 @@
+# AK-69 – WAYA
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Uh～, She so nasty
+黒のワンピ 流し目アピール
+She so ワヤ… (Yo, 誰だてワヤ)
+Oh, She so ワヤ…
+賭け引きがたまらねぇ Uh～,
+どこの棒付き? ただのパンピー
+じゃねぇ感じ がどえりゃワヤ…
+(ま、とにかくワヤ)
+Oh, She so ワヤ…
+(俺のハートに着火Fire)
+見たことがねぇ 見たかこの絵
+刺さるこの辺 起きるBig wave
+(Oh, She so nasty, Ay yo
+I wanna talk about it)
+そう 柄にもねぇ 汗握る手
+俺は69 キミは? Wass yo name?
+(Oh, you so nasty,
+生ツバ飲むIt's yo body)
+Uh～, She so nasty
+黒のワンピ 流し目アピール
+She so ワヤ… (Yo, 誰だてワヤ)
+Oh, She so ワヤ…
+賭け引きがたまらねぇ Uh～,
+どこの棒付き? ただのパンピー
+じゃねぇ感じ がどえりゃワヤ…
+(ま、とにかくワヤ)
+Oh, She so ワヤ…
+(俺のハートに着火Fire)
+誰と来とろうが関係ねぇ
+バーテンダー彼女にシャンパンを
+1本くれ
+淫らな恋心あおるロゼ DJが叫ぶ
+「Where my party people at!」
+この空間 まるでシェルター
+ほんの数分間 時忘れた
+(Oh, you so nasty, yeah
+息を呑むIt's yo body)
+Uh～, She so nasty
+黒のワンピ 流し目アピール
+She so ワヤ… (Yo, 誰だてワヤ)
+Oh, She so ワヤ…
+賭け引きがたまらねぇ Uh～,
+どこの棒付き? ただのパンピー
+じゃねぇ感じ がどえりゃワヤ…
+(ま、とにかくワヤ)
+Oh, She so ワヤ…
+(俺のハートに着火Fire)
+さぁ抜け出そうマリオットのSuite
+高嶺の花でも堂々とSteal
+吐息までSweat 肌はSilky
+こりゃどえらリスキーなんて
+夢見すぎ?
+やらしい手つき 妖艶な目つき
+さっきとは別人 Yo, B Please…
+君はFENDIやLOUIS VUITTONにD＆G
+でも創ることできねぇV.I.P
+Uh～, She so nasty
+黒のワンピ 流し目アピール
+She so ワヤ… (Yo, 誰だてワヤ)
+Oh, She so ワヤ…
+賭け引きがたまらねぇ Uh～,
+どこの棒付き? ただのパンピー
+じゃねぇ感じ がどえりゃワヤ…
+(ま、とにかくワヤ)
+Oh, She so ワヤ…
+(俺のハートに着火Fire)
+Uh～, She so nasty
+黒のワンピ 流し目アピール
+She so ワヤ… (Yo, 誰だてワヤ)
+Oh, She so ワヤ…
+賭け引きがたまらねぇ Uh～,
+どこの棒付き? ただのパンピー
+じゃねぇ感じ がどえりゃワヤ…
+(ま、とにかくワヤ)
+Oh, She so ワヤ…
+(俺のハートに着火Fire)
+```
