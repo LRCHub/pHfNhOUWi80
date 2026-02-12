@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "WAYA",
+  "base_artist": "AK-69",
+  "createdAt": "2026-02-12T11:49:26.880121Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Waya Waya - feat. Sean Paul",
+      "artist": "Tal",
+      "has_synced": true,
+      "path": "select/01_Waya_Waya_-_feat._Sean_Paul_Tal.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Waya Waya (Tal Feat. Sean Paul)",
+      "artist": "Sean Paul",
+      "has_synced": true,
+      "path": "select/02_Waya_Waya_(Tal_Feat._Sean_Paul)_Sean_Paul.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Waya Waya",
+      "artist": "Master KG feat. Team Mosha",
+      "has_synced": false,
+      "path": "select/03_Waya_Waya_Master_KG_feat._Team_Mosha.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Wayo Waya",
+      "artist": "Ladaniva",
+      "has_synced": false,
+      "path": "select/04_Wayo_Waya_Ladaniva.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Waya waya (feat. Sean Paul)",
+      "artist": "TAL feat. Sean Paul",
+      "has_synced": true,
+      "path": "select/05_Waya_waya_(feat._Sean_Paul)_TAL_feat._Sean_Paul.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Waya Waya",
+      "artist": "Tal feat. Sean Paul",
+      "has_synced": true,
+      "path": "select/06_Waya_Waya_Tal_feat._Sean_Paul.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Waya Lghram",
+      "artist": "Mehdi Mozayine",
+      "has_synced": true,
+      "path": "select/07_Waya_Lghram_Mehdi_Mozayine.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "EVERYDAY iParty Waya Waya (feat. Dr Peppa, Lady Du, ShaunMusiq & Ftears & Mellow & Sleazy)",
+      "artist": "Myztro",
+      "has_synced": true,
+      "path": "select/08_EVERYDAY_iParty_Waya_Waya_(feat._Dr_Peppa,_Lady_Du,_ShaunMusiq_&_Ftears_&_Mellow_Myztro.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Waya Waya (feat. Cassper Nyovest)",
+      "artist": "K.O",
+      "has_synced": true,
+      "path": "select/09_Waya_Waya_(feat._Cassper_Nyovest)_K.O.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Waya waya",
+      "artist": "Tal",
+      "has_synced": true,
+      "path": "select/10_Waya_waya_Tal.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Wayo Waya",
+      "artist": "Ladaniva",
+      "has_synced": true,
+      "path": "select/11_Wayo_Waya_Ladaniva.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Wayo Waya",
+      "artist": "Ladaniva",
+      "has_synced": true,
+      "path": "select/12_Wayo_Waya_Ladaniva.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Waya Waya",
+      "artist": "Beny Jr",
+      "has_synced": false,
+      "path": "select/13_Waya_Waya_Beny_Jr.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "WAYA",
+      "artist": "AK-69",
+      "has_synced": false,
+      "path": "select/pl_01_WAYA_AK-69.txt"
+    }
+  ]
+}
